@@ -40,6 +40,6 @@ if usuario in usuarios and usuarios[usuario] == senha:
     if verificar_codigo(secret, codigo_usuario):
         print("Código válido! Autenticação bem-sucedida.")
     else:
-        print("Código válido! Autenticação bem-sucedida.")
+        print("Código inválido. Tente novamente.")
 else:
     print("Usuário ou senha incorretos. Acesso negado.")
