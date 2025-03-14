@@ -88,9 +88,4 @@ python nome_do_arquivo.py
 2. Escaneie o QR Code gerado usando um autenticador como Google Authenticator ou Authy.
 3. Insira o código gerado no autenticador para verificar a autenticação.
 
-## Melhorias Futuras
-- Armazenamento do segredo OTP em um banco de dados.
-- Implementação de uma interface gráfica (GUI) para facilitar o uso.
-- Integração com um backend para uso em aplicações web.
-
 ---
